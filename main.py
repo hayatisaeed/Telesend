@@ -14,10 +14,6 @@ api_hash = input("[-- Please Enter Your api_hash: ")
 phone_number = input("[-- Please Enter Your Phone number (including country code with +): ")
 app_password = getpass.getpass("[-- Please Enter your password (* if no password):  ")
 
-# Replace the values below with your phone number and Telegram app password
-# phone_number = '+6283147662645'
-# app_password = 'password'
-
 
 print("~ Loging in to your account ...")
 
